@@ -1,2 +1,2 @@
 # variant-effect-predictor
-Results from training on dataset
+Results from training
